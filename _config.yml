@@ -1,0 +1,12 @@
+domain: ai-pulse.github.io
+url: https://ai-pulse.github.io
+baseurl: /ai-pulse-web
+
+# Site settings
+title: AI Pulse
+email: ai.pulse.company@gmail.com
+description: "We are an AI mobile apps studio that specializes in creating intelligent and innovative mobile solutions for businesses and individuals. Our team of experienced developers, designers, and engineers is passionate about delivering state-of-the-art technology that makes a real difference in people's lives. At our studio, we are committed to excellence, innovation, and exceptional service."
+
+# Build settings
+markdown: kramdown
+permalink: pretty
