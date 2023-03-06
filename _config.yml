@@ -1,6 +1,6 @@
 domain: ai-pulse.github.io
 url: https://ai-pulse.github.io
-baseurl: /ai-pulse-web
+baseurl: ""
 
 # Site settings
 title: AI Pulse
